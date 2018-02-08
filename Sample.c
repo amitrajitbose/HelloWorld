@@ -10,7 +10,7 @@ int main(){
 	printf("That's Cool\n");
   }
   else if(ch[0]=='n' || ch[0]=='N'){
-	printf("You Should Try It Buddy!\n");
+	printf("You Should Try It Buddy!\n");//i added
   }
   else{
 	printf("Couldn't Understand You Mate!\n");
